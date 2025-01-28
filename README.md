@@ -1,4 +1,4 @@
-# Dataset README
+
 
 ## Dataset Overview
 This dataset is used for analyzing shopping trends and generating personalized insights for business owners. It provides detailed information about sales data and various metrics needed to produce verified insights like "Verified by TrendLens" badges.
