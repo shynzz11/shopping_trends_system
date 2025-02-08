@@ -106,7 +106,7 @@ This dataset is used for analyzing shopping trends and generating personalized i
 - **Discount_Offered** and **Return_Status** help identify potential sales strategies and product issues.
 
 ---
-
+## While using the notebook, update the path file of the raw dataset to your project directory/wherever it is downloaded. 
 ## Acknowledgements
 - This dataset was designed as part of the TrendLens project to provide personalized insights and verified badges for business owners.
 
