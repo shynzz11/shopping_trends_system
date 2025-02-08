@@ -111,4 +111,4 @@ This dataset is used for analyzing shopping trends and generating personalized i
 - This dataset was designed as part of the TrendLens project to provide personalized insights and verified badges for business owners.
 
 ## Contact
-For questions or support, please contact [support@trendlens.com](mailto:support@trendlens.com).
+For questions or support, please contact [support@trendlens.com](mailto:shayan.dey011.com).
